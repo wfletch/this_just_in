@@ -1,0 +1,20 @@
+{
+    "task": [
+        {
+            "name": "Sea To Sea",
+            "time": 20,
+            "tags": [
+                "Sight Reading"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "G7 Improv",
+            "time": 10,
+            "tags": [
+                "Jazz Improv"
+            ],
+            "notes": "D-7 -> G7 Backing Track Improv"
+        }
+    ]
+}
